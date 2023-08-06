@@ -1,0 +1,8 @@
+V3 3
+FL "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.vhd" 2023/07/27.20:00:25 P.20131013
+EN work/and_gate 1690527831 \
+      FL "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_gate/Dataflow 1690527832 \
+      FL "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.vhd" \
+      EN work/and_gate 1690527831
