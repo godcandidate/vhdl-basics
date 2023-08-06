@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.xst" -ofn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.syr" 
+xst -intstyle ise -ifn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.xst" -ofn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.syr" 
+xst -intstyle ise -ifn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.xst" -ofn "/home/eddie/Documents/Xilinx projects/BasicGates/AND_gate/and_gate.syr" 
