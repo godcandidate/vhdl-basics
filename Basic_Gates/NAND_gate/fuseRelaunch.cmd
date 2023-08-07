@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/eddie/Documents/Xilinx projects/BasicGates/NAND_gate/nand_gate_test_isim_beh.exe" -prj "/home/eddie/Documents/Xilinx projects/BasicGates/NAND_gate/nand_gate_test_beh.prj" "work.nand_gate_test" 
