@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/eddie/Documents/Xilinx projects/BasicGates/NOR_gate/nor_gate.xst" -ofn "/home/eddie/Documents/Xilinx projects/BasicGates/NOR_gate/nor_gate.syr" 
