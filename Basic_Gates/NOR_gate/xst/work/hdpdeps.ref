@@ -1,0 +1,8 @@
+V3 3
+FL "/home/eddie/Documents/Xilinx projects/BasicGates/NOR_gate/nor_gate.vhd" 2023/07/27.20:53:08 P.20131013
+EN work/nor_gate 1690491194 \
+      FL "/home/eddie/Documents/Xilinx projects/BasicGates/NOR_gate/nor_gate.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/nor_gate/Dataflow 1690491195 \
+      FL "/home/eddie/Documents/Xilinx projects/BasicGates/NOR_gate/nor_gate.vhd" \
+      EN work/nor_gate 1690491194
